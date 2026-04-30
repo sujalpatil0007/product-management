@@ -47,9 +47,13 @@ This project performs full **CRUD operations** on products with a simple UI and 
 (Add your project screenshots here later)
 
 Example:Home Page
-Add Product Page
-Product List Page
+## 📸 Screenshots
 
+### Home Page
+![Home Page](frontend/images/home.png)
+
+###  Product Page
+![ Product](frontend/images/product.png)
 
 ---
 
