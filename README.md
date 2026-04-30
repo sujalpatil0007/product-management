@@ -44,17 +44,12 @@ This project performs full **CRUD operations** on products with a simple UI and 
 ---
 
 ## 📸 Screenshots
-(Add your project screenshots here later)
-
-Example:Home Page
-## 📸 Screenshots
 
 ### Home Page
 ![Home Page](./frontend/images/home.png)
 
 ### Product Page
 ![Product Page](./frontend/images/product.png)
-
 ---
 
 ## 🚀 How to Run Project
