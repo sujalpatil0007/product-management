@@ -50,10 +50,10 @@ Example:Home Page
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](frontend/images/home.png)
+![Home Page](./frontend/images/home.png)
 
-###  Product Page
-![ Product](frontend/images/product.png)
+### Product Page
+![Product Page](./frontend/images/product.png)
 
 ---
 
