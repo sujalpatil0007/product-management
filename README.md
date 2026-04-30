@@ -46,7 +46,7 @@ This project performs full **CRUD operations** on products with a simple UI and 
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](./frontend/images/home.png)
+![Home Page](./frontend/home.png)
 
 ### Product Page
 ![Product Page](./frontend/images/product.png)
