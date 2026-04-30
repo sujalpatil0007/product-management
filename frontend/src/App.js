@@ -3,8 +3,11 @@ import axios from "axios";
 import "./App.css";
 import TaglineSection from "./TaglineSection";
 
+// const api = axios.create({
+//   baseURL: "http://localhost:8000",
+// });
 const api = axios.create({
-  baseURL: "http://localhost:8000",
+  baseURL: "https://product-management-api.onrender.com",
 });
 
 function App() {
